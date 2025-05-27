@@ -25,4 +25,4 @@ HelloSQL is an end-to-end Text-to-SQL assistant built with Streamlit, powered by
 ## Demo
 
 
-![Uploading Recording2025-05-27110601-ezgif.com-video-to-gif-converter.gif…]()
+![Recording2025-05-27110601-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9ca2daa1-df70-4983-afd9-093a5821c539)
